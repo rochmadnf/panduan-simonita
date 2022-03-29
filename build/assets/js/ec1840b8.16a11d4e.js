@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpanduan_simonita=self.webpackChunkpanduan_simonita||[]).push([[738],{4469:function(n){n.exports=JSON.parse('{"plugin":{"name":"docusaurus-plugin-content-blog","id":"default"}}')}}]);
